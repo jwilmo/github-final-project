@@ -1,4 +1,4 @@
-## A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+## :abacus: A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 **Input:**
   - p, _principal amount_
@@ -8,7 +8,7 @@
 **Output:**
   - simple interest = p * t * r
 
-## Please consider the below factors while contributing
+## :thinking: Please consider the below factors while contributing
 
 **Code Style:**
 Maintain a consistent code style for readability.
